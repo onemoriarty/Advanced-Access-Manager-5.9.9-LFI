@@ -45,7 +45,7 @@ You can run the tool from the command line. It supports scanning a single URL or
 To see the available options and help message:
 
 ```
-python exp.py
+python exp.py -h
 ```
 
 **Usage Options:**
